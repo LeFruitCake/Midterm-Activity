@@ -1,2 +1,3 @@
-requirements:
-    -seaborn
+seaborn
+matplotlib
+pandas
