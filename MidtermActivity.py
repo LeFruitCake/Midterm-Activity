@@ -3,8 +3,6 @@ import pandas
 import numpy
 import seaborn
 import matplotlib.pyplot as plt
-import pip
-pip.main(['install','seaborn'])
 
 #outlier detection algorithm
 def detect_outliers(data, threshold = 3):
