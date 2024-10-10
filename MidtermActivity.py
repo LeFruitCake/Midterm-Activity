@@ -64,5 +64,4 @@ st.caption("Variables with p-values greater than 0.005 indicates that tehre is i
 
 st.divider()
 st.subheader("Pairplot")
-pplot = seaborn.pairplot(df[:200],hue='Rain Tomorrow', kind="reg", diag_kind="kde", plot_kws={'ci':None})
-st.pyplot(pplot)
+st.image("pplot.jpg")
