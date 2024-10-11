@@ -65,3 +65,5 @@ st.caption("Variables with p-values greater than 0.005 indicates that tehre is i
 st.divider()
 st.subheader("Pairplot")
 st.image("pplot.jpg")
+st.divider()
+st.image("blast-pplot.jpg")
